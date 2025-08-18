@@ -119,7 +119,7 @@ p { margin-bottom: 20px; font-size: 1.05rem; max-width: 800px; margin-left: auto
     text-align: center; padding: 20px;
 }
 .profile-photo {
-    width: 220px; height: 220px;
+    width: 300px; height: 300px;
     border-radius: 50%; object-fit: cover;
     border: 8px solid white;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
@@ -354,4 +354,5 @@ p { margin-bottom: 20px; font-size: 1.05rem; max-width: 800px; margin-left: auto
     .name { font-size: 2.5rem; }
     .profile-photo { width: 150px; height: 150px; }
     .stat-item span { font-size: 3rem; }
+
 }
